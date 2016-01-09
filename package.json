@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/TomKemp/synote-connect-panopto-input#readme",
   "dependencies": {
-    "async": "^1.5.1"
+    "async": "^1.5.1",
+    "manual-panopto-api":"TomKemp/manual-panopto-api"
   }
 }
